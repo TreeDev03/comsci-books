@@ -22,8 +22,9 @@ It is also made by <a href="https://github.com/google/gson" target="_blank">Gson
 * You can read both the Terms & Conditions and Privacy Policy <a href="https://www.freeprivacypolicy.com/live/927b28b7-c67a-4b25-b6dd-788de8c39951" target="_blank">here.</a>
 * You can find the app on the <a href="https://play.google.com/store/apps/details?id=com.trevDev.comsci&hl=en_US&gl=US" target="_blank">Google Play Store</a>
 
-Download APK
-* APK
+Download 
+
+* <a href="https://github.com/TreeDev03/ComSci-Books/releases/download/apk/app-debug.apk">APK</a>
 
 ![googleplay](https://user-images.githubusercontent.com/92409958/144038965-b6a4e38a-0606-47c2-ad13-03fd9b2c7b43.png)
 
