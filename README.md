@@ -20,7 +20,7 @@ It is also made by <a href="https://github.com/google/gson" target="_blank">Gson
 
 * Andriod 8.0+
 * You can read both the Terms & Conditions and Privacy Policy <a href="https://www.freeprivacypolicy.com/live/927b28b7-c67a-4b25-b6dd-788de8c39951" target="_blank">here.</a>
-* You can find the app on the <a href="https://play.google.com/store/apps/details?id=com.trevDev.comsci&hl=en_US&gl=US" target="_blank">Google Play Store</a>
+* You can find the app on the <a href="https://play.google.com/store/apps/details?id=com.trevDev.comsci&hl=en_US&gl=US" target="_blank">Google Play Store.</a>
 
 Download 
 
